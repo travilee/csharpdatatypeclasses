@@ -1,0 +1,8 @@
+C:\Users\Student\Documents\Visual Studio 2015\Projects\csharpdatatytypeclasses\src\TesterProgram\bin\Debug\TesterProgram.exe.config
+C:\Users\Student\Documents\Visual Studio 2015\Projects\csharpdatatytypeclasses\src\TesterProgram\bin\Debug\TesterProgram.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\csharpdatatytypeclasses\src\TesterProgram\bin\Debug\TesterProgram.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\csharpdatatytypeclasses\src\TesterProgram\bin\Debug\Classes Library.dll
+C:\Users\Student\Documents\Visual Studio 2015\Projects\csharpdatatytypeclasses\src\TesterProgram\bin\Debug\Classes Library.pdb
+C:\Users\Student\Documents\Visual Studio 2015\Projects\csharpdatatytypeclasses\src\TesterProgram\obj\Debug\TesterProgram.csprojResolveAssemblyReference.cache
+C:\Users\Student\Documents\Visual Studio 2015\Projects\csharpdatatytypeclasses\src\TesterProgram\obj\Debug\TesterProgram.exe
+C:\Users\Student\Documents\Visual Studio 2015\Projects\csharpdatatytypeclasses\src\TesterProgram\obj\Debug\TesterProgram.pdb
